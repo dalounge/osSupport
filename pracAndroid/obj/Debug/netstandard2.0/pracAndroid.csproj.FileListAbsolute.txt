@@ -1,0 +1,13 @@
+F:\pracAndroid\pracAndroid\pracAndroid\bin\Debug\netstandard2.0\pracAndroid.deps.json
+F:\pracAndroid\pracAndroid\pracAndroid\bin\Debug\netstandard2.0\pracAndroid.dll
+F:\pracAndroid\pracAndroid\pracAndroid\bin\Debug\netstandard2.0\pracAndroid.pdb
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\pracAndroid.csprojAssemblyReference.cache
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\pracAndroid.csproj.CoreCompileInputs.cache
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\pracAndroid.AssemblyInfoInputs.cache
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\pracAndroid.AssemblyInfo.cs
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\pracAndroid.dll
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\pracAndroid.pdb
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\XamlC.stamp
+F:\pracAndroid\pracAndroid\pracAndroid\obj\Debug\netstandard2.0\osLIst.xaml.g.cs
