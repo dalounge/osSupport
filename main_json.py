@@ -13,6 +13,7 @@ with open('productos.csv', 'r', encoding='utf-8-sig') as osinfo:
         cw = csv.writer(wwinfo)
 
         for e in ww_filter:
+            e[0] = e[0].replace('Wonderware', '').strip()
             cw.writerow(e)
 
 os_dict = {}
