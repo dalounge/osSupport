@@ -1,6 +1,6 @@
 import csv, json, re
 
-with open('productos.csv', 'r', encoding='utf-8-sig') as osinfo:
+with open('productos.csv', 'r') as osinfo:
     c = csv.reader(osinfo)
 
     ww_filter = []
@@ -18,7 +18,7 @@ with open('productos.csv', 'r', encoding='utf-8-sig') as osinfo:
 
 os_dict = {}
 
-with open('wwProductOs.csv', 'r') as csv_json:
+with open('wwProductOs.csv', 'r', encoding='utf-8-sig') as csv_json:
     c = csv.reader(csv_json)
 
     for row in c:
