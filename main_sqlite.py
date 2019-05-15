@@ -13,6 +13,7 @@ with open('productos.csv', 'r') as osinfo:
         cw = csv.writer(wwinfo)
 
         for e in ww_filter:
+            e[0] = e[0].replace('Wonderware', '').strip()
             cw.writerow(e)
 
 conn = sqlite3.connect('wwinfo.sqlite')
